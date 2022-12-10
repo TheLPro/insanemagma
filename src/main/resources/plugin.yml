@@ -1,0 +1,5 @@
+name: InsaneMagma
+version: '${project.version}'
+main: me.thelpro.InsaneMagma
+api-version: 1.19
+authors: [ TheLPro ]
